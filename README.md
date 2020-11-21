@@ -1,6 +1,5 @@
 # GradientDescent
 <br/>
-*italik*
-**kalın**
-sdfds
-
+1. satır
+<br/>
+2.starır
